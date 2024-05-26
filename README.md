@@ -1,3 +1,6 @@
+
+![Captura de pantalla 2024-05-25 230219](https://github.com/FranJavacisco/Eventos-y-componentes-vue/assets/134477809/7a7aa16f-bcdf-4eab-848e-62e8414c50ea)
+
 # Eventos y Componentes en VUE
 
 ## Descripción del Proyecto
